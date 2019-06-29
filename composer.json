@@ -1,0 +1,15 @@
+{
+    "name": "kaneki/alipay-sdk",
+    "description": "alipay-php-sdk",
+    "type": "librray",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "kaneki",
+            "email": "kaneki@comicool.cn"
+        }
+    ],
+    "require": {
+    	"php": ">=5.4.0"
+    }
+}
